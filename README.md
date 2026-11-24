@@ -16,7 +16,7 @@
 | **Kalsys** | ![live](https://img.shields.io/badge/-live-2ea44f) | MCP server that gives AI clients one memory across sessions and projects. Each session opens on the right context; every change is checked |
 | **Fateweaver** | ![live](https://img.shields.io/badge/-live-2ea44f) | Free AION 2 overlay for Windows: DPS meter, party HP, PvP tracking, timers and cube alerts. [Releases](https://github.com/ZekeLabs/fateweaver-releases) |
 | **The Digital Novice** | ![live](https://img.shields.io/badge/-live-2ea44f) | Plain-English scam and fraud newsletter that finds, writes, fact-checks, illustrates and sends each issue itself, and skips a day rather than send a bad one |
-| **Utility billing system** | ![in rollout](https://img.shields.io/badge/-in%20rollout-d29922) | Invoicing, payments and a customer portal for a water utility with 200+ accounts. Private |
+| **Utility billing system** | ![in rollout](https://img.shields.io/badge/-in%20rollout-d29922) | Invoicing, payments and a customer portal for a utility with 200+ accounts. Private |
 
 ## How it's built
 
